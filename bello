@@ -2,9 +2,5 @@
   {
     "blobfile": "foo",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/tsaru72test/Isocrates.pdf"
-  },
-  {
-    "blobfile": "hello",
-    "blobfilename": "hey all!"
   }
 ]
