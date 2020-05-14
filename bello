@@ -5,10 +5,10 @@
   },
   {
     "blobfile": "abc",
-    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/tsaru72test/Isocrates.pdf"
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/tsaru72test/abc.pdf"
   },
   {
     "blobfile": "def",
-    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/tsaru72test/Isocrates.pdf"
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/tsaru72test/def.pdf"
   }
 ]
