@@ -70,5 +70,17 @@
   {
     "blobfile": "rec",
     "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+   {
+    "blobfile": "sprint",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Sprint3_20200602"
+  },
+   {
+    "blobfile": "sprint",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Sprint4_20200602"
+  },
+   {
+    "blobfile": "sprint",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Sprint5_20200602"
   }
 ]
