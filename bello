@@ -1,22 +1,47 @@
 [
   {
-    "blobfile": "foo",
+    "blobfile": "assn",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Assn1_20200601"
   },
    {
-    "blobfile": "foo",
+    "blobfile": "assn",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Assn2_20200601"
   },
    {
-    "blobfile": "foo",
+    "blobfile": "attn",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Attn_20200601"
   },
    {
-    "blobfile": "foo",
+    "blobfile": "attn",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Attn_20200701"
   },
    {
-    "blobfile": "foo",
+    "blobfile": "sprint",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Sprint1_20200601"
+  },
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+  ,
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
+  },
+  {
+    "blobfile": "rec",
+    "blobfilename": "https://www.youtube.com/embed/07d2dXHYb94"
   }
 ]
