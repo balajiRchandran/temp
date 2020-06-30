@@ -82,5 +82,21 @@
    {
     "blobfile": "sprint",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Sprint5_20200602"
+  },
+  {
+    "blobfile": "assn",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Assn1_20200601"
+  },
+   {
+    "blobfile": "assn",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Assn2_20200601"
+  },
+   {
+    "blobfile": "attn",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Attn_20200601"
+  },
+   {
+    "blobfile": "attn",
+    "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Attn_20200701"
   }
 ]
