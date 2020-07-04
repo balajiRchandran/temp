@@ -1,5 +1,9 @@
 [
   {
+    "blobfile":"username_role.json",
+    "blobfilename":"https://raw.githubusercontent.com/balajiRchandran/temp/master/username_role.json"
+  },
+  {
     "blobfile": "assn",
     "blobfilename": "https://isodeveastus2blob01.blob.core.windows.net/balaji/Assn1_20200601"
   },
